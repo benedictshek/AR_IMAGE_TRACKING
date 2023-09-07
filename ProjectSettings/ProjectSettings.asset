@@ -12,7 +12,7 @@ PlayerSettings:
   targetDevice: 2
   useOnDemandResources: 0
   accelerometerFrequency: 60
-  companyName: DefaultCompany
+  companyName: benedictshek
   productName: AR_IMAGE_TRACKING
   defaultCursor: {fileID: 0}
   cursorHotspot: {x: 0, y: 0}
@@ -157,7 +157,7 @@ PlayerSettings:
   applicationIdentifier:
     Android: com.DefaultCompany.AR_IMAGE_TRACKING
     Standalone: com.DefaultCompany.AR-IMAGE-TRACKING
-    iPhone: com.DefaultCompany.AR-IMAGE-TRACKING
+    iPhone: com.benedictshek.AR-IMAGE-TRACKING
   buildNumber:
     Standalone: 0
     iPhone: 0
