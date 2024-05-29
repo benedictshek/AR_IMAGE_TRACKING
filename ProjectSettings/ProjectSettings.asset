@@ -155,14 +155,14 @@ PlayerSettings:
   androidSupportedAspectRatio: 1
   androidMaxAspectRatio: 2.1
   applicationIdentifier:
-    Android: com.DefaultCompany.AR_IMAGE_TRACKING
+    Android: com.benedictshek.AR_IMAGE_TRACKING
     Standalone: com.DefaultCompany.AR-IMAGE-TRACKING
     iPhone: com.benedictshek.AR-IMAGE-TRACKING
   buildNumber:
     Standalone: 0
     iPhone: 0
     tvOS: 0
-  overrideDefaultApplicationIdentifier: 0
+  overrideDefaultApplicationIdentifier: 1
   AndroidBundleVersionCode: 1
   AndroidMinSdkVersion: 24
   AndroidTargetSdkVersion: 0
