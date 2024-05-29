@@ -21,9 +21,9 @@ MonoBehaviour:
       m_GuidLow: 5290253081659470318
       m_GuidHigh: 1499254258347533458
     m_SerializedTextureGuid:
-      m_GuidLow: 1289393550730087651
-      m_GuidHigh: 14378547700927927611
-    m_Size: {x: 0.11800417, y: 0.18335626}
+      m_GuidLow: 15345944161034629514
+      m_GuidHigh: 7935657403484195578
+    m_Size: {x: 0.11800417, y: 0.15981218}
     m_SpecifySize: 1
     m_Name: UnityChan_Tracker
     m_Texture: {fileID: 0}
